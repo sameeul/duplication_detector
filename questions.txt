@@ -1,0 +1,4 @@
+1. Are we only looking at *.prt files?
+2. Will the Z:\Release, Z:\Review and Z:\In-Process be the only top level directory that we are interested in (i.e. use for categorization)?
+3. If yes, can each TLD can have nested directories or just files?
+4. If 2 is "No", can this kind of file "Z:\some_other_dir\Release\some_file.prt" exists? If yes, will that be part of Release category?  
